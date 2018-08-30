@@ -1,0 +1,10 @@
+on: '2'
+services:
+  image-processing:
+    image: vlead/image-processing:latest
+    stdin_open: true
+    tty: true
+    ports:
+    - 80/tcp
+    labels:
+      io.rancher.container.pull_image: always
