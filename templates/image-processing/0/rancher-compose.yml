@@ -1,6 +1,6 @@
 .catalog:
   name: Image Processing Lab
-  version: 0.1
+  version: 0
   description: IP Lab
   uuid: 1
   minimum_rancher_version: 1.6.21
