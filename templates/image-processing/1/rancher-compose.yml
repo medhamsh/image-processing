@@ -1,0 +1,7 @@
+.catalog:
+  name: Image Processing Lab
+  version: 1
+  description: IP Lab
+  uuid: 1
+  minimum_rancher_version: 1.6.21
+  questions: #Used to request user input for configuration options
